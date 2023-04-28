@@ -20,7 +20,7 @@ jobs:
           node-version: '16'
           cache: 'yarn'
       - name: Install packages
-         run: npm ci
+        run: npm ci
       - name: Create Release Pull Request or Publish to npm
         id: changesets
         uses: changesets/action@v1

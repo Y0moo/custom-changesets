@@ -1,5 +1,11 @@
 # @custom-changesets/oh-baby-it-rampage
 
+## 0.0.4
+
+### Patch Changes
+
+- [`adcece9`](https://github.com/Y0moo/custom-changesets/commit/adcece90dbda3acd1fddad8baac17d7e80fcae3e) Thanks [@Y0moo](https://github.com/Y0moo)! - Real deal
+
 ## 0.0.3
 
 ## 0.0.2

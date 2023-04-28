@@ -1,10 +1,13 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@2.3.0/schema.json",
-  "changelog": "@changesets/cli/changelog",
+  "changelog": [
+    "@changesets/changelog-github",
+    { "repo": "Y0moo/custom-changesets" }
+  ],
   "commit": false,
-  "fixed": [],
+  "fixed": [["oh-baby-it-rampage", "oh-baby-it-tripple"]],
   "linked": [],
-  "access": "restricted",
+  "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
   "ignore": []

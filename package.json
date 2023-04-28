@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "publish": "changeset publish"
+    "publish": "changeset publish",
+    "version": "npx changeset version && npm install --no-save --package-lock-only"
   },
   "private": true,
   "dependencies": {

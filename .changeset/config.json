@@ -5,12 +5,7 @@
     { "repo": "Y0moo/custom-changesets" }
   ],
   "commit": false,
-  "fixed": [
-    [
-      "oh-baby-it-rampage",
-      "oh-baby-it-tripple"
-    ]
-  ],
+  "fixed": [["oh-baby-it-rampage", "oh-baby-it-tripple", "oh-baby-it-4"]],
   "linked": [],
   "access": "public",
   "baseBranch": "main",

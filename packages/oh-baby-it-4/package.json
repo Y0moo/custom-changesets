@@ -1,0 +1,7 @@
+{
+  "name": "oh-baby-it-4",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "node index.js"
+  }
+}

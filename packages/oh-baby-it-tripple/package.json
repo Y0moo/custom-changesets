@@ -1,5 +1,5 @@
 {
-  "name": "@custom-changesets/oh-baby-it-tripple",
+  "name": "oh-baby-it-tripple",
   "version": "0.0.1",
   "scripts": {
     "test": "node index.js"

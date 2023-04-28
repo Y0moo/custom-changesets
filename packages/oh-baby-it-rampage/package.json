@@ -1,5 +1,5 @@
 {
-  "name": "@custom-changesets/oh-baby-it-rampage",
+  "name": "oh-baby-it-rampage",
   "version": "0.0.1",
   "scripts": {
     "test": "node index.js"

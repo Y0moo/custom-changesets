@@ -4,7 +4,8 @@
   "license": "MIT",
   "scripts": {
     "publish": "changeset publish",
-    "version": "npx changeset version && npm install --no-save --package-lock-only"
+    "version": "npx changeset version && npm install --no-save --package-lock-only",
+    "aggregate-release-notes": "node srcipts/aggregate-release-notes.js"
   },
   "private": true,
   "dependencies": {

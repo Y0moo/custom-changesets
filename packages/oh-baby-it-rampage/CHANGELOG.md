@@ -1,5 +1,7 @@
 # @custom-changesets/oh-baby-it-rampage
 
+## 0.0.3
+
 ## 0.0.2
 
 ### Patch Changes

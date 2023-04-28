@@ -1,5 +1,8 @@
 {
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
-  "projects": {}
+  "projects": {
+    "oh-baby-it-rampage": "packages\\oh-baby-it-rampage",
+    "oh-baby-it-tripple": "packages\\oh-baby-it-tripple"
+  }
 }

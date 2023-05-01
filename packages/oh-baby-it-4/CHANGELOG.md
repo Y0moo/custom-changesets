@@ -1,5 +1,11 @@
 # @custom-changesets/oh-baby-it-tripple
 
+## 0.0.5
+
+### Patch Changes
+
+- [`1bc563f`](https://github.com/Y0moo/custom-changesets/commit/1bc563f68f5f2430c1907658318b4708ac3814b3) Thanks [@Y0moo](https://github.com/Y0moo)! - So here it is
+
 ## 0.0.4
 
 ### Patch Changes

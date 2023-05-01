@@ -33,5 +33,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_ACTIONS_PAT }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-      - name: Aggregate Release Notes
-        run: npm run aggregate-release-notes
+
